@@ -5,6 +5,7 @@
  Explica qué partes conforman el UX y qué partes el UI
 
  **UX**
+
  UX Design (*User Experience Design*) o “Diseño de Experiencia de Usuario” es una filosofía de diseño que tiene por objetivo la creación de productos que resuelvan necesidades concretas de sus usuarios finales, consiguiendo la mayor satisfacción y mejor experiencia de uso posible con el mínimo esfuerzo. Toma forma como un proceso en el que se utilizan una serie de técnicas multidisciplinares y donde cada decisión tomada debe estar basada en las necesidades, objetivos, expectativas, motivaciones y capacidades de los usuarios.
 
 La mayoría de los procesos que hacen Diseño Centrado en el Usuario tienen el siguiente esqueleto:
@@ -23,6 +24,7 @@ Análisis de datos (KPI’s, métricas)
 Arquitectura de información
 
 **UI**
+
 La interfaz de usuario es el medio con que el usuario puede comunicarse con una máquina, equipo, computadora o dispositivo, y comprende todos los puntos de contacto entre el usuario y el equipo.
 
 Normalmente suelen ser fáciles de entender y fáciles de accionar, aunque en el ámbito de la informática es preferible referirse a que suelen ser "amigables e intuitivos" porque es complejo y subjetivo decir "fácil".
@@ -35,12 +37,13 @@ Diseño de elementos (botones, formularios)
 Diseño visual (iconos, imágenes)
 Guías de estilo (paletas de color, fonts)
 
-*Introduciendonos al UX-UI de la pag* (www.laboratoria.la)
+**Introduciendonos al UX-UI de la pag** (www.laboratoria.la)
 
 **UX**
-Logo : Tenemos en la parte de arriba al centro el logo de la empresa, esto sirve para que el usuario identifique facilmente en que pagina se encuentra.
 
-Slogan : *Talento que transforma* Este es de suma importancia ya que es el que da la presentacion de la empresa, lo que comunica y hace sentir es la idea con la que el usuario se acercara al producto.
+- Logo : Tenemos en la parte de arriba al centro el logo de la empresa, esto sirve para que el usuario identifique facilmente en que pagina se encuentra.
+
+- Slogan : *Talento que transforma* Este es de suma importancia ya que es el que da la presentacion de la empresa, lo que comunica y hace sentir es la idea con la que el usuario se acercara al producto.
 
 Las dos anteriores son basicas en cualquier tipo de publicidad apto en cualquier producto, ya que es la manera en la que te presentas al cliente, en este caso el usuario.
 
@@ -57,6 +60,7 @@ Todas estas con la finalidad de crear empatia con el usuario, asi generamos un v
 
 
 **UI**
+
 Aqui en adelante juega un papel muy importante la parte de UI ya que ahora es el momento en el que el usuario va a interactuar con la pagina, debemos darle una navegacion precisa y clara.
 
 - Botones : A los lados del logo tenemos dos botones muy claros y de facil acceso, dando opcion a nuestro dos perfiles de usuarios, que en este caso son las alumnas y las empresas interesadas en nuestro proyecto. Asi como en cada seccion de importancia nos ofrecen un boton para poder acceder a mas informacion respecto al tema.
@@ -66,4 +70,10 @@ Aqui en adelante juega un papel muy importante la parte de UI ya que ahora es el
 
 
 
- ![Ejercicio UX-UI](https://preview.ibb.co/mrNEjb/LABO2.png "De 150 x 150 píxeles")
+ ![Ejercicio UX-UI](https://preview.ibb.co/kfybxw/Sin_t_tulo.png "De 200 x 200 píxeles")
+
+ ![Ejercicio UX-UI](https://preview.ibb.co/dTK24b/HJK.png" De 200 x 200 píxeles")
+
+ ![Ejercicio UX-UI](https://preview.ibb.co/ep1h4b/KGK.png "De 200 x 200 píxeles")
+
+ ![Ejercicio UX-UI](https://preview.ibb.co/k620qG/JFG.png "De 200 x 200 píxeles")
